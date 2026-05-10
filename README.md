@@ -16,6 +16,12 @@ ollama pull gemma2:2b
 ollama pull llava-phi3
 (3gb)
 
+for the updated version, with newest features:
+ollama pull gemma3:4b
+(3.3gb)
+ollama pull granite3.2-vision:2b
+(2.4gb)
+
 Download the python code in the releases and run in VSC.
 
 Keybinds are adjustable to your needs and details are in the terminal after execution.
