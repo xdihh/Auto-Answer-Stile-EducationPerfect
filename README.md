@@ -11,16 +11,12 @@ execute this on terminal after installation:
 pip install pyperclip keyboard ollama plyer pyautogui Pillow
 
 then use these commands seperately: (make sure ollama is downloaded)
-ollama pull gemma2:2b
+ollama pull gemma3:4b
 (2gb)
-ollama pull llava-phi3
+ollama pull qwen2.5vl:3b
 (3gb)
 
-for the updated version, with newest features:
-ollama pull gemma3:4b
-(3.3gb)
-ollama pull granite3.2-vision:2b
-(2.4gb)
+YOU NEED AT LEAST 3GB of VRAM to use the image model.
 
 Download the python code in the releases and run in VSC.
 
