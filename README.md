@@ -13,6 +13,7 @@ pip install pyperclip keyboard ollama plyer pyautogui Pillow
 then use these commands seperately: (make sure ollama is downloaded)
 ollama pull gemma3:4b
 (2gb)
+
 ollama pull qwen2.5vl:3b
 (3gb)
 
